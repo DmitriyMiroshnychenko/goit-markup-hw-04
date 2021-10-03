@@ -118,7 +118,8 @@ ul {
   padding: 32px 0;
 }
 
-.icon-envelope {
+.icon-envelope
+ {
   margin-right: 5px;
 }
 
@@ -278,6 +279,9 @@ ul {
 .icon-link:focus {
   background-color: var(--accent-color);
   fill: var(--main-white-color);
+}
+
+
 }
 /* .icon-instagram {
   fill: black;
@@ -454,6 +458,7 @@ rgba(175, 177, 184, 1);
   margin-bottom: 20px;
 }
 
+
 .icon-list-footer {
   display: flex;
 }
@@ -470,6 +475,7 @@ rgba(175, 177, 184, 1);
 }
 
 .icon-item-footer {
+  fill:#ffffff;
   margin-right: 10px;
  
 }
